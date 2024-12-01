@@ -6,7 +6,7 @@ export default function Home() {
       {/* Section: Introduction */}
       <section className="text-center">
         <h1 className="text-4xl font-bold text-gray-800">Portfolio</h1>
-        <p className="mt-4 text-lg text-gray-600">Sutthiwit Sriyotha</p>
+        <p className="mt-4 text-lg text-gray-600">Name | Sutthiwit Sriyotha</p>
         <p className="mt-4 text-lg text-gray-600">Age: 20 | Student ID: 66022961</p>
       </section>
 
