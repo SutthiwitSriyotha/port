@@ -44,7 +44,7 @@ export default function Home() {
           <div className="flex flex-col items-center p-6 space-y-4 border rounded-lg shadow bg-white">
             <Image
               className="rounded-md"
-              src="/images/project1.jpg"
+              src="/project1.png"
               alt="appTamroi - Selling Plants"
               width={300}
               height={200}
@@ -59,7 +59,7 @@ export default function Home() {
           <div className="flex flex-col items-center p-6 space-y-4 border rounded-lg shadow bg-white">
             <Image
               className="rounded-md"
-              src="/images/project2.jpg"
+              src="/project2.png"
               alt="appTamroi - Food Recommendation"
               width={300}
               height={200}
