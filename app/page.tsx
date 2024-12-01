@@ -5,7 +5,8 @@ export default function Home() {
     <div className="flex flex-col items-center min-h-screen px-6 py-12 space-y-16 bg-gray-50 sm:px-12">
       {/* Section: Introduction */}
       <section className="text-center">
-        <h1 className="text-4xl font-bold text-gray-800">Sutthiwit Sriyotha</h1>
+        <h1 className="text-4xl font-bold text-gray-800">Portfolio</h1>
+        <p className="mt-4 text-lg text-gray-600">Sutthiwit Sriyotha</p>
         <p className="mt-4 text-lg text-gray-600">Age: 20 | Student ID: 66022961</p>
       </section>
 
