@@ -8,6 +8,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-gray-800">Portfolio</h1>
         <p className="mt-4 text-lg text-gray-600">Sutthiwit Sriyotha</p>
         <p className="mt-4 text-lg text-gray-600">Age: 20 | Student ID: 66022961</p>
+        <p className="mt-4 text-lg text-gray-600">contact | tel.0934918615</p>
       </section>
 
       {/* Section: Skills */}
